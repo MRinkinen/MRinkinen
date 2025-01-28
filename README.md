@@ -1,7 +1,37 @@
-# Hi there 👋, I'm Matti Rinkinen!
+# Hi there 👋, I'm Matti!
 
 Welcome to my GitHub profile!
 
+---
+
+## 🚀 About Me
+- 🌎 Based in: [Helsinki, Finland]
+- ✨ Passionate about: [Game Development, Software Developmen]
+
+---
+
+## 🛠️ Skills
+- **Languages**: [C, C++, C#]
+- **Game Development**: [Unity]
+- **Tools**: [Git, Docker, Linux]
+
+---
+
+## 🎮 Game Projects
+
+
+---
+
+## 💻 Coding Projects
+
+
+---
+
+## 📧 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/matti-rinkinen-6a819322b/))
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:mattirinkinen@gmail.com)
+
+---
 <!--
 # Hi there 👋, I'm [Your Name]!
 
@@ -18,11 +48,9 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Role] who loves 
 ---
 
 ## 🛠️ Skills
-- **Languages**: [e.g., C++, Python, JavaScript]
-- **Game Development**: [e.g., Unity, Unreal Engine, Godot]
-- **Web Development**: [e.g., React, Node.js, Django]
-- **Tools**: [e.g., Git, Docker, Linux (Debian user!)]
-- **Other**: [e.g., Blender, Photoshop]
+- **Languages**: [C, C++, C#]
+- **Game Development**: [Unity]
+- **Tools**: [Git, Docker, Linux]
 
 ---
 
@@ -45,10 +73,8 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Role] who loves 
 ---
 
 ## 📧 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/matti-rinkinen-6a819322b/))
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:mattirinkinen@gmail.com)
 
 ---
 

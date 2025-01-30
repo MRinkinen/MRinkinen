@@ -18,6 +18,7 @@ Welcome to my GitHub profile!
 ---
 
 ## 🎮 Game Projects
+1. [**SciFi Racer**](https://github.com/MRinkinen/Hive_GameJam_2_SciFi_Racer) Hive gamejam game
 
 
 ---
@@ -56,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Role] who loves 
 ---
 
 ## 🎮 Game Projects
-1. [**Epic Quest**](https://github.com/username/epic-quest) - A 3D action-adventure game built with Unity.
+1. [**SciFi Racer**](https://github.com/MRinkinen/Hive_GameJam_2_SciFi_Racer) Hive gamejam game
 2. [**Pixel Adventure**](https://github.com/username/pixel-adventure) - A pixel-art platformer created with Godot Engine.
 3. [**Racing Rivals**](https://github.com/username/racing-rivals) - A high-speed multiplayer racing game using Unreal Engine.
 4. [**Dungeon Crawler**](https://github.com/username/dungeon-crawler) - A procedurally generated dungeon game with roguelike mechanics.

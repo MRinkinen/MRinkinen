@@ -32,6 +32,7 @@ Welcome to my GitHub profile!
 ## 💻 Coding Projects
 1. [**MiniTalk**](https://github.com/MRinkinen/ft_minitalk) - Minitalk is a 42-school project that implements a simple communication system between two processes using the `SIGUSR1` and `SIGUSR2` signals.
 2. [**MiniRT**](https://github.com/MRinkinen/miniRT_collab) - miniRT is a simple Ray Tracing engine implemented as part of the 42 curriculum.
+3. [**42 CPP Modules**](https://github.com/MRinkinen/CPP_Modules) - C++ Modules
 
 
 ---

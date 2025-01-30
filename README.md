@@ -23,6 +23,7 @@ Welcome to my GitHub profile!
 ---
 
 ## 💻 Coding Projects
+1. [**MiniTalk**](https://github.com/MRinkinen/ft_minitalk) - Minitalk is a 42-school project that implements a simple communication system between two processes using the `SIGUSR1` and `SIGUSR2` signals.
 
 
 ---
@@ -64,7 +65,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Role] who loves 
 ---
 
 ## 💻 Coding Projects
-1. [**Task Master**](https://github.com/username/task-master) - A productivity app for task management built with React and Node.js.
+1. [**Task Master**](https://github.com/MRinkinen/ft_minitalk) - Minitalk is a 42-school project that implements a simple communication system between two processes using the `SIGUSR1` and `SIGUSR2` signals.
 2. [**Weather Wizard**](https://github.com/username/weather-wizard) - A weather forecasting app using Python and Flask.
 3. [**Portfolio Website**](https://github.com/username/portfolio-website) - A personal portfolio site showcasing my work (HTML/CSS/JS).
 4. [**Algo Visualizer**](https://github.com/username/algo-visualizer) - A tool for visualizing algorithms like sorting and pathfinding.

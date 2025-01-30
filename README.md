@@ -18,7 +18,7 @@ Welcome to my GitHub profile!
 ---
 
 ## 🎮 Game Projects
-1. [**SciFi Racer**](https://github.com/MRinkinen/Hive_GameJam_1_Medieval_Platformer) Hive gamejam_1 game. Topic: Medieval platformer
+1. [**Medieval platformer**](https://github.com/MRinkinen/Hive_GameJam_1_Medieval_Platformer) Hive gamejam_1 game. Topic: Medieval platformer
    
 ![Alt-teksti](MediEvalGIF.gif)
 

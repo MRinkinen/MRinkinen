@@ -18,9 +18,14 @@ Welcome to my GitHub profile!
 ---
 
 ## 🎮 Game Projects
-![Alt-teksti](ScifiRacerGIF.gif)
-1. [**SciFi Racer**](https://github.com/MRinkinen/Hive_GameJam_2_SciFi_Racer) Hive gamejam game
+1. [**SciFi Racer**](https://github.com/MRinkinen/Hive_GameJam_1_Medieval_Platformer) Hive gamejam_1 game. Topic: Medieval platformer
+   
+![Alt-teksti](MediEvalGIF.gif)
 
+
+2. [**SciFi Racer**](https://github.com/MRinkinen/Hive_GameJam_2_SciFi_Racer) Hive gamejam_2 game. Topic: Racing game
+
+![Alt-teksti](ScifiRacerGIF.gif)
 
 ---
 

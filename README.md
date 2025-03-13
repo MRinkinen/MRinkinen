@@ -38,7 +38,7 @@ Welcome to my GitHub profile!
 ---
 
 ## 📧 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/matti-rinkinen-6a819322b/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matti-rinkinen-6a819322b/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:mattirinkinen@gmail.com)
 
 ---
